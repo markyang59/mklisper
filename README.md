@@ -1,6 +1,6 @@
 #mklisper
 Common LISP utility library for everyday developer <br>
-Mark Yang \
+Mark Yang <br>
 (mkyang@mediamtd.com)
 
 ##Introduction
@@ -13,4 +13,8 @@ I hope some of these code can solve your problems.
 - Compiler : Franz Allegro CL
 
 ##File Description
-
+- mkCRC : CRC32 generator
+- mkdib : win32 DIB(Device Independant Bitmap) wrapper for CL
+- mkqueue : thread safe queue based on mp:queue
+- mkthread : run lisp functions in OS native thread. It's performance almost same as C++ thread control
+- mkutil : MISC utility sniffet
