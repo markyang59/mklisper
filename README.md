@@ -1,5 +1,5 @@
 #mklisper
-Common LISP utility library for everyday developer\
+Common LISP utility library for everyday developer\\
 Mark Yang \
 (mkyang@mediamtd.com)
 
